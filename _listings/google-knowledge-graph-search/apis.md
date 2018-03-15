@@ -13,8 +13,8 @@ tags:
 - Stack Network
 - Search
 - Google APIs
-created: "2018-03-13"
-modified: "2018-03-13"
+created: "2018-03-15"
+modified: "2018-03-15"
 url: https://raw.githubusercontent.com/streamdata-gallery/edge/master/_listings/google-knowledge-graph-search/apis.yaml
 specificationVersion: "0.14"
 apis:
